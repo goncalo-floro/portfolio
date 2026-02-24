@@ -11,7 +11,7 @@
 
 ## Objetivo
 
-Este portfólio reúne projetos desenvolvidos durante a minha formação em Engenharia Informática na Universidade de Aveiro, bem como projetos pessoais e criativos que demonstram o meu interesse e competências em desenvolvimento de jogos digitais.
+Este portfólio reúne projetos desenvolvidos durante a minha formação em Engenharia Informática na Universidade de Aveiro, bem como projetos pessoais e criativos que demonstram os meus interesses e competências.
 
 ## Estrutura do Portfólio
 
@@ -41,5 +41,5 @@ Projetos relacionados com música, produção sonora e criação artística.
 
 ---
 
-*Portfólio atualizado em Janeiro de 2026*  
+*Portfólio atualizado em 24 de Fevereiro de 2026*
 *Universidade de Aveiro - Engenharia Informática*
