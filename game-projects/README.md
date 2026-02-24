@@ -15,24 +15,14 @@ Os projetos aqui apresentados foram desenvolvidos por iniciativa própria, duran
 **Descrição:**
 Projeto pessoal iniciado a partir de uma ideia original, envolvendo conceção de narrativa, design de níveis e definição de mecânicas base.
 
-**Principais características:**
-- Sistema de movimento documentado
-- Design de níveis com progressão narrativa
-- Documentação do processo de desenvolvimento
-
 ---
 
-### [Sistema de Jogo - Conceito Expandido]()
+### [Sistema de Jogo - Conceito Expandido](https://github.com/goncalo-floro/reaction_kingdom)
 **Período:** 2023 - Presente
 **Estado:** Protótipo funcional em desenvolvimento ativo 
-**Tecnologias:** Unity, C#
+**Tecnologias:** html, javaScript
 
 **Descrição:**
-Reestruturação e expansão de um conceito de jogo, com foco em arquitetura de sistemas mais robusta e mecânicas técnicas. Este projeto representa a evolução da minha abordagem ao desenvolvimento de jogos, incorporando aprendizagens recentes.
-
-**Principais características:**
-- Arquitetura modular de sistemas de jogo
-- Sistema de progressão e recompensa
-- Documentação técnica detalhada
+Reestruturação e expansão de um conceito de jogo, com foco em tempos de reação. Este projeto representa a evolução da minha abordagem ao desenvolvimento de jogos, incorporando aprendizagens recentes.
 
 ---
