@@ -1,6 +1,6 @@
 # Projetos de Desenvolvimento de Jogos
 
-Esta secção contém os meus projetos pessoais relacionados com desenvolvimento de jogos digitais, demonstrando a minha capacidade de conceber, projetar e implementar experiências interativas.
+Esta secção contém os meus projetos pessoais relacionados com o desenvolvimento de jogos digitais, demonstrando a minha capacidade de conceber, projetar e implementar experiências interativas.
 
 ## Visão Geral
 
@@ -17,7 +17,7 @@ Projeto pessoal iniciado a partir de uma ideia original, envolvendo conceção d
 
 ---
 
-### [Sistema de Jogo - Conceito Expandido](https://github.com/goncalo-floro/reaction_kingdom)
+### [Reaction Kingdom](https://github.com/goncalo-floro/reaction_kingdom)
 **Período:** 2023 - Presente
 **Estado:** Protótipo funcional em desenvolvimento ativo 
 **Tecnologias:** html, javaScript
