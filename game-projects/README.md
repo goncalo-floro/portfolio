@@ -9,8 +9,8 @@ Os projetos aqui apresentados foram desenvolvidos por iniciativa própria, duran
 ## Projetos
 
 ### [Protótipo de Platformer 2D](https://github.com/goncalo-floro/game)
-**Período:** 2025 - Presente
-**Estado:** Em desenvolvimento / Documentação
+- **Período:** 2025 - Presente
+- **Estado:** Em desenvolvimento / Documentação
 
 **Descrição:**
 Projeto pessoal iniciado a partir de uma ideia original, envolvendo conceção de narrativa, design de níveis e definição de mecânicas base.
@@ -18,9 +18,9 @@ Projeto pessoal iniciado a partir de uma ideia original, envolvendo conceção d
 ---
 
 ### [Reaction Kingdom](https://github.com/goncalo-floro/reaction_kingdom)
-**Período:** 2023 - Presente
-**Estado:** Protótipo funcional em desenvolvimento ativo 
-**Tecnologias:** html, javaScript
+- **Período:** 2023 - Presente
+- **Estado:** Protótipo funcional em desenvolvimento ativo
+- **Tecnologias:** html, javaScript
 
 **Descrição:**
 Reestruturação e expansão de um conceito de jogo, com foco em tempos de reação. Este projeto representa a evolução da minha abordagem ao desenvolvimento de jogos, incorporando aprendizagens recentes.
