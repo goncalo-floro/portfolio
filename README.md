@@ -6,7 +6,7 @@
 
 **Formação:** Licenciatura em Engenharia Informática (UA, 2023-2026)  
 **Idade:** 20 anos  
-**GitHub Principal:** [github.com/goncalo-floro](https://github.com/goncalo-floro)
+**GitHub Principal:** [github.com/goncalo-floro](https://github.com/goncalo-floro)  
 **GitHub Secundário:** [github.com/goncalofloro](https://github.com/goncalofloro)
 
 ## Objetivo
