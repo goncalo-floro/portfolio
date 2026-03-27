@@ -12,7 +12,7 @@ Projetos intermédios com foco em desenvolvimento de software, bases de dados e 
 ### [Projeto de Bases de dados - loja de música](https://github.com/goncalo-floro/FinalFormsBD)
 **UC:** Bases de Dados  
 **Período:** 2º Semestre 2025/2026  
-**Tecnologias:** sql & C++ 
+**Tecnologias:** sql & C++  
 **Equipa:** 2 elementos  
 
 **Descrição:**
