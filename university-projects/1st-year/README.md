@@ -9,7 +9,7 @@ Projetos introdutórios focados em fundamentos de programação, algoritmos e es
 
 ## Projetos
 
-### [Projeto de MAS - Super Pets](https://github.com/goncalo-floro/FinalFormsBD)
+### [Projeto de MAS - Super Pets](https://github.com/goncalofloro/MAS)
 **UC:** Modelação e análise de sistemas
 **Período:** 1º Semestre 2024/2025  
 **Tecnologias:** html, css & Js 
