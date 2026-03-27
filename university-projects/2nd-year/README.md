@@ -9,14 +9,14 @@ Projetos intermédios com foco em desenvolvimento de software, bases de dados e 
 
 ## Projetos
 
-### [Aplicação Móvel - Estádio do Dragão](https://github.com/Estadio-do-Dragao-app)
-**UC:** Projeto em Engenharia Informática  
-**Período:** 1º e 2º Semestres 2025/2026  
-**Tecnologias:** Flutter, Dart, python  
-**Equipa:** 5 elementos  
+### [Projeto de Bases de dados - loja de música](https://github.com/goncalo-floro/FinalFormsBD)
+**UC:** Bases de Dados  
+**Período:** 2º Semestre 2025/2026  
+**Tecnologias:** sql & C++ 
+**Equipa:** 2 elementos  
 
 **Descrição:**
-Sistema de mapeamento e segurança desenvolvido para utilização em ambiente do campus, com funcionalidades de localização em tempo real, navegação outdoor e gestão de emergências.
+Sistema de gestão de uma loja de música.
 
 ---
 
