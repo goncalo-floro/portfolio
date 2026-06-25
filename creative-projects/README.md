@@ -17,7 +17,3 @@ Projetos relacionados com música, produção sonora, performance e criação ar
 
 **Descrição:**
 Participação ativa na produção de obra musical adaptada para formato de espetáculo escolar, envolvendo desde a preparação até à performance final.
-
----
-
-*Projetos que demonstram criatividade artística*
