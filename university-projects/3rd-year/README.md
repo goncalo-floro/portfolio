@@ -33,6 +33,9 @@ Sistema de gestão de reservas de roupa.
 **Tecnologias:** React, java, Docker, RabbitMQ  
 **Equipa:** 4 elementos  
 
+**Descrição:**
+Plataforma inteligente de gestão de resíduos que integra dados em tempo real de sensores de nível de preenchimento de lixeiras e dados de rastreamento GPS dos caminhões de coleta para otimizar dinamicamente as rotas e os cronogramas de coleta de resíduos..
+
 ---
 
 *Projetos académicos - Universidade de Aveiro, 3º ano de Engenharia Informática*
