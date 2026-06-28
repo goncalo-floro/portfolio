@@ -12,7 +12,7 @@ Projetos do terceiro ano, focados em aplicações complexas, trabalho em equipa 
 ### [Aplicação Móvel - Estádio do Dragão](https://github.com/Estadio-do-Dragao-app)
 **UC:** Projeto em Engenharia Informática  
 **Período:** 1º e 2º Semestres 2025/2026  
-**Tecnologias:** Flutter, Dart, python  
+**Tecnologias:** Flutter, python, Docker  
 **Equipa:** 5 elementos  
 
 **Descrição:**
@@ -26,6 +26,12 @@ Sistema de mapeamento e segurança desenvolvido para utilização em ambiente do
 
 **Descrição:**
 Sistema de gestão de reservas de roupa.
+
+### [Aplicação web - SmartBinRoute](https://github.com/detiuaveiro/ies2526-group-project-ies2526_g605)
+**UC:** Introdução á engenharia de software 
+**Período:** 2º Semestre 2025/2026  
+**Tecnologias:** React, java, Docker, RabbitMQ
+**Equipa:** 4 elementos  
 
 ---
 
