@@ -28,9 +28,9 @@ Sistema de mapeamento e segurança desenvolvido para utilização em ambiente do
 Sistema de gestão de reservas de roupa.
 
 ### [Aplicação web - SmartBinRoute](https://github.com/detiuaveiro/ies2526-group-project-ies2526_g605)
-**UC:** Introdução á engenharia de software 
+**UC:** Introdução á engenharia de software  
 **Período:** 2º Semestre 2025/2026  
-**Tecnologias:** React, java, Docker, RabbitMQ
+**Tecnologias:** React, java, Docker, RabbitMQ  
 **Equipa:** 4 elementos  
 
 ---
