@@ -23,7 +23,7 @@ Todas as ideias que tive de jogos
 - **Tecnologias:** html, javaScript
 
 **Descrição:**
-Reestruturação e expansão de um conceito de jogo, com foco em tempos de reação. Este projeto representa a evolução da minha abordagem ao desenvolvimento de jogos, incorporando aprendizagens recentes.
+Reestruturação e expansão de um conceito de jogo, com foco em tempos de reação.
 
 ---
 
